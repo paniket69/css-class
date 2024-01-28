@@ -8,4 +8,10 @@ p{
 
 button{
     color: rgb(204, 218, 18);
+    background-color: green;
 }
+
+body{
+    background-color: black;
+}
+
