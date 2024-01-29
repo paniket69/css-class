@@ -84,10 +84,13 @@ a{
 } */
 
 /* Practice set 2 */
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h1{
     text-align: center;
     text-transform: capitalize;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 #outer{
