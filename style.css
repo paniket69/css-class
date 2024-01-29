@@ -84,7 +84,7 @@ a{
 } */
 
 /* Practice set 2 */
-*{
+/* *{
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -99,4 +99,23 @@ h1{
 
 #inner{
     font-size: 10px;
+} */
+
+div{
+    height: 100px;
+    width: fit-content;
+    background-color: pink;
+    border-width: 2px;
+    border-style: solid;
+    border-color: brown;
+}
+
+h1{
+    text-align: right;
+    height: 50px;
+    width: 200px;
+    background-color: aquamarine;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: blue;
 }
