@@ -44,6 +44,12 @@ h1{
 p{
     text-align: center;
 }
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 a{
     text-decoration: none;
