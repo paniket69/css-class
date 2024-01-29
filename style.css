@@ -34,3 +34,18 @@ body{
 /* button{
     color: green;
 } */
+
+
+h1{
+    text-align: center;
+    text-decoration: red dotted underline;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
