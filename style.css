@@ -102,20 +102,23 @@ h1{
 } */
 
 div{
+    text-align: center;
     height: 100px;
-    width: fit-content;
+    width: 200px;
     background-color: pink;
     border-width: 2px;
     border-style: solid;
     border-color: brown;
+    border-radius: 50px;
 }
 
 h1{
-    text-align: right;
+    text-align: center;
     height: 50px;
     width: 200px;
     background-color: aquamarine;
-    border-width: 3px;
+    /* border-width: 3px;
     border-style: dotted;
-    border-color: blue;
-}
+    border-color: blue; */
+    border: 3px dotted blue;
+} 
