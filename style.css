@@ -163,11 +163,33 @@ button{
     background-color:  #f08804;
 } */
 
-div{
+/* div{
     background-color: pink;
     display: inline;
 }
 
 button{
     display: block;
+} */
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#div1{
+    background-color: blue;
+
+}
+
+#div2{
+    background-color: green;
+    display: none;
+}
+
+#div3{
+    background-color: brown;
 }
