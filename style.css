@@ -101,7 +101,7 @@ h1{
     font-size: 10px;
 } */
 
-div{
+/* div{
     text-align: center;
     height: 100px;
     width: 200px;
@@ -110,10 +110,10 @@ div{
     border-style: solid;
     border-color: brown;
     border-radius: 50px;
-    /* padding-left: 10px;
+    padding-left: 10px;
     padding-right: 20px;
     padding-top: 30px;
-    padding-bottom: 40px; */
+    padding-bottom: 40px;
     padding: 30px 20px 40px 10px;
     margin-top: 50px;
     margin-bottom: 100;
@@ -124,8 +124,17 @@ h1{
     height: 50px;
     width: 200px;
     background-color: aquamarine;
-    /* border-width: 3px;
+    border-width: 3px;
     border-style: dotted;
-    border-color: blue; */
+    border-color: blue;
     border: 3px dotted blue;
-} 
+}  */
+
+/* practice set 3 */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
